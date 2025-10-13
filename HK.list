@@ -1,7 +1,7 @@
 # 自用HK
-- DOMAIN-SUFFIX,pypi.org
+#- DOMAIN-SUFFIX,pypi.org
 - DOMAIN-SUFFIX,dmhy.org
-- DOMAIN-SUFFIX,ipify.org
+#- DOMAIN-SUFFIX,ipify.org
 - DOMAIN-KEYWORD,themoviedb
 - DOMAIN-KEYWORD,tmdb
 - DOMAIN-KEYWORD,thetvdb
