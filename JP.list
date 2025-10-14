@@ -1,16 +1,18 @@
-# 自用JP
-- DOMAIN-SUFFIX,airav.wiki
-- DOMAIN-SUFFIX,airavonline.vip
-- DOMAIN-SUFFIX,airav.io
-- DOMAIN-SUFFIX,arzon.jp
-- DOMAIN-SUFFIX,avbase.net
-- DOMAIN-SUFFIX,caribbeancom.com
-- DOMAIN-SUFFIX,hbox.jp
-- DOMAIN-SUFFIX,jav321.com
-- DOMAIN-SUFFIX,javbus.com
-- DOMAIN-SUFFIX,javdb.com,HK
-- DOMAIN-SUFFIX,javlibrary.com
-- DOMAIN-SUFFIX,madou.club
-- DOMAIN-SUFFIX,madouqu.com
-- DOMAIN-SUFFIX,mgstage.com
-- DOMAIN-SUFFIX,7mmtv.sx
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,airav.wiki
+DOMAIN-SUFFIX,airavonline.vip
+DOMAIN-SUFFIX,airav.io
+DOMAIN-SUFFIX,arzon.jp
+DOMAIN-SUFFIX,avbase.net
+DOMAIN-SUFFIX,caribbeancom.com
+DOMAIN-SUFFIX,hbox.jp
+DOMAIN-SUFFIX,jav321.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javdb.com,HK
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,madou.club
+DOMAIN-SUFFIX,madouqu.com
+DOMAIN-SUFFIX,mgstage.com
+DOMAIN-SUFFIX,7mmtv.sx
