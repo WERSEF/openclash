@@ -12,3 +12,7 @@
 - DOMAIN-KEYWORD,imgto
 - DOMAIN-SUFFIX,gofile.io
 - DOMAIN-SUFFIX,j8.pics
+
+IP-CIDR,172.104.93.80/32,no-resolve
+IP-CIDR,103.2.57.5/32,no-resolve
+IP-CIDR,174.138.29.175/32,no-resolve
