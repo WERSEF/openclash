@@ -11,10 +11,10 @@ DOMAIN-SUFFIX,alpinelinux.org
 #DOMAIN-SUFFIX,ipify.org
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,themoviedb
-DOMAIN-KEYWORD,tmdb
-DOMAIN-KEYWORD,thetvdb
-DOMAIN-KEYWORD,fanart
+#DOMAIN-KEYWORD,themoviedb
+#DOMAIN-KEYWORD,tmdb
+#DOMAIN-KEYWORD,thetvdb
+#DOMAIN-KEYWORD,fanart
 DOMAIN-KEYWORD,south-plus
 DOMAIN-KEYWORD,imgbox
 DOMAIN-KEYWORD,catbox
