@@ -1,4 +1,4 @@
-# NAME: Use-slef Rules
+# NAME: Use-self Rules
 # AUTHOR: hanoch
 # UPDATED: 2026-6-7
 
@@ -9,3 +9,6 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,bangumi.tv
+  - DOMAIN-SUFFIX,chii.in
