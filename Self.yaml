@@ -1,0 +1,11 @@
+# NAME: Use-slef Rules
+# AUTHOR: hanoch
+# UPDATED: 2026-6-7
+
+payload:
+  - DOMAIN-SUFFIX,south-plus.net
+  - DOMAIN-SUFFIX,movie-pilot.org
+  - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,gofile.io
+  - DOMAIN-SUFFIX,metacubex.one
