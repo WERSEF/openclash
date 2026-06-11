@@ -1,6 +1,6 @@
 # NAME: Use-self Rules
 # AUTHOR: hanoch
-# UPDATED: 2026-6-7
+# UPDATED: 2026-6-11
 
 payload:
   - DOMAIN-SUFFIX,south-plus.net
