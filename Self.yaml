@@ -1,14 +1,18 @@
 # NAME: Use-self Rules
 # AUTHOR: hanoch
-# UPDATED: 2026-6-11
+# UPDATED: 2026-06-16
 
 payload:
   - DOMAIN-SUFFIX,south-plus.net
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-SUFFIX,dmhy.org
-  - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,bangumi.tv
   - DOMAIN-SUFFIX,chii.in
+  - DOMAIN,assets.fanart.tv
+  - DOMAIN,webservice.fanart.tv
+  - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,tvdb.com
+  - DOMAIN-SUFFIX,trakt.tv
